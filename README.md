@@ -8,24 +8,16 @@ The objective of this project is to beat the performance of the Standard & Poor 
 
 All the required code is found in the SP1500stockPicker.ipynb file. You can run it using Jupyter Notebook which comes with the Anaconda distribution which you can find at https://www.anaconda.com/distribution/#download-section. The code is running on Python 3.7.
 
-The data used in the program can also be found in the various csv files in the repo:
+The data used in the program was obtained from Bloomberg and Compustat. Both services are proprietary and therefore the data cannot be published online. 
 
-* ratios_1990_2019.csv
-* yield_1962_2019.csv
-* SP1500constituents.csv
-* ^GSPC.csv
+* ratios_1990_2019.csv ( File containing all the financial ratios of the US companies, obtained with Compustat)
+* yield_1962_2019.csv (File containing all the monthly returns of the US companies, obtained with Bloomberg)
+* SP1500constituents.csv (File containing all the past and present constituents of the S&P 1500 index, obtained with Compustat)
+* ^GSPC.csv  (File containing all the closing price of the S&P 500, obtained via Yahoo Finance)
 
 ### Requirements
 
-* python==
-
-* matplotlib==
-
-* datetime==
-
-* progressbar==
-
-* multiprocessing==
+* python== 3.7
 
 * scikit-learn==0.21.2
 
