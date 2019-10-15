@@ -1,0 +1,82 @@
+ 
+Variable 	Name	Data Type	Variable Description	Help
+Accrual		NUM	Accruals/Average Assets	
+adv_sale	NUM	Avertising Expenses/Sales	
+aftret_eq	NUM	After-tax Return on Average Common Equity	
+aftret_equity	NUM	After-tax Return on Total Stockholders Equity	
+aftret_invcapx	NUM	After-tax Return on Invested Capital	
+at_turn		NUM	Asset Turnover	
+bm		NUM	Book/Market	
+capei		NUM	Shillers Cyclically Adjusted P/E Ratio	
+capital_ratio	NUM	Capitalization Ratio	
+cash_conversion	NUM	Cash Conversion Cycle (Days)	
+cash_debt	NUM	Cash Flow/Total Debt	
+cash_lt		NUM	Cash Balance/Total Liabilities	
+cash_ratio	NUM	Cash Ratio	
+cfm		NUM	Cash Flow Margin	
+curr_debt	NUM	Current Liabilities/Total Liabilities	
+curr_ratio	NUM	Current Ratio	
+de_ratio	NUM	Total Debt/Equity	
+debt_assets	NUM	Total Debt/Total Assets	
+debt_at		NUM	Total Debt/Total Assets	
+debt_capital	NUM	Total Debt/Capital	
+debt_ebitda	NUM	Total Debt/EBITDA	
+debt_invcap	NUM	Long-term Debt/Invested Capital	
+divyield	NUM	Dividend Yield	
+dltt_be		NUM	Long-term Debt/Book Equity	
+dpr		NUM	Dividend Payout Ratio	
+efftax		NUM	Effective Tax Rate	
+equity_invcap	NUM	Common Equity/Invested Capital	
+evm		NUM	Enterprise Value Multiple	
+fcf_ocf		NUM	Free Cash Flow/Operating Cash Flow	
+gpm		NUM	Gross Profit Margin	
+GProf		NUM	Gross Profit/Total Assets	
+int_debt	NUM	Interest/Average Long-term Debt	
+int_totdebt	NUM	Interest/Average Total Debt	
+intcov		NUM	After-tax Interest Coverage	
+intcov_ratio	NUM	Interest Coverage Ratio	
+inv_turn	NUM	Inventory Turnover	
+invt_act	NUM	Inventory/Current Assets	
+lt_debt		NUM	Long-term Debt/Total Liabilities	
+lt_ppent	NUM	Total Liabilities/Total Tangible Assets	
+npm		NUM	Net Profit Margin	
+ocf_lct		NUM	Operating CF/Current Liabilities	
+opmad		NUM	Operating Profit Margin After Depreciation	
+opmbd		NUM	Operating Profit Margin Before Depreciation	
+pay_turn	NUM	Payables Turnover	
+pcf		NUM	Price/Cash flow	
+pe_exi		NUM	P/E (Diluted, Excl. EI)	
+pe_inc		NUM	P/E (Diluted, Incl. EI)	
+pe_op_basic	NUM	Price/Operating Earnings (Basic, Excl. EI)	
+pe_op_dil	NUM	Price/Operating Earnings (Diluted, Excl. EI)	
+PEG_1yrforward	NUM	Forward P/E to 1-year Growth (PEG) ratio	
+PEG_ltgforward	NUM	Forward P/E to Long-term Growth (PEG) ratio	
+PEG_trailing	NUM	Trailing P/E to Growth (PEG) ratio	
+pretret_earnat	NUM	Pre-tax Return on Total Earning Assets	
+pretret_noa	NUM	Pre-tax return on Net Operating Assets	
+profit_lct	NUM	Profit Before Depreciation/Current Liabilities	
+ps		NUM	Price/Users/thomasrochefort/Documents/School/IND6953N - Techno Financiere/Projet/definitions des colonnes.txt/Sales	
+ptb		NUM	Price/Book	
+ptpm		NUM	Pre-tax Profit Margin	
+quick_ratio	NUM	Quick Ratio (Acid Test)	
+RD_SALE		NUM	Research and Development/Sales	
+rect_act	NUM	Receivables/Current Assets	
+rect_turn	NUM	Receivables Turnover	
+roa		NUM	Return on Assets	
+roce		NUM	Return on Capital Employed	
+roe		NUM	Return on Equity	
+sale_equity	NUM	Sales/Stockholders Equity	
+sale_invcap	NUM	Sales/Invested Capital	
+sale_nwc	NUM	Sales/Working Capital	
+short_debt	NUM	Short-Term Debt/Total Debt	
+staff_sale	NUM	Labor Expenses/Sales	
+totdebt_invcap	NUM	Total Debt/Invested Capital
+AJEXM		NUM	AJEXM -- Cumulative Adjustment Factor - Ex Date -Month
+GGROUP		CHAR	GGROUP -- GIC Groups	
+GIND		CHAR	GIND -- GIC Industries	
+GSECTOR		CHAR	GSECTOR -- GIC Sectors	
+GSUBIND		CHAR	GSUBIND -- GIC Sub-Industries
+NAICS		CHAR	NAICS -- North American Industry Classification Code
+PRCCM		NUM	PRCCM -- Price - Close - Monthly
+TRT1M		NUM	TRT1M -- Monthly Total Return
+CSHOM		NUM	CSHOM -- Shares Outstanding Monthly - Issue
